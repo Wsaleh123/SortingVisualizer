@@ -1,4 +1,4 @@
-# SortingVisualizer
+# Sorting Visualizer
 
 ![image](Shuffle.png)
 
