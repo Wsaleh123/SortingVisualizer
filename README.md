@@ -8,12 +8,7 @@ This project was built in python using the built in Tkinter library.
 The aim of this project is to allow users to compare and contrast 
 different sorting algorithms. The different sorting algorithms include
 
-* Sorting Algorithm Worst
-* Bubble Sort
-* Insertion Sort
-* Merge Sort
-* Quick Sort
-* Heap Sort
+![algos](algos.png)
 
 An instance of a Node object array is kept. Each Node object has the canvas'
 x and y values for the rectangles, as well as the height and color of the rectangles.
